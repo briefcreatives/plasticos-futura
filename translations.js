@@ -145,18 +145,6 @@ var linguJSON = {
   			"target_fr": "Nous sommes votre meilleur partenaire dans le <strong>développement</strong> et la <strong>production</strong> de <strong>solutions plastiques</strong>."
 		},
 		{
-			"source": "Nossa História",
-			"target_en": "Our Story",
-			"target_es": "Nuestra Historia",
-			"target_fr": "Notre Histoire"
-		},
-		{
-			"source": "Saltar História",
-  			"target_en": "Skip History",
-  			"target_es": "Saltar Historia",
-  			"target_fr": "Passer l'Histoire"
-		},
-		{
 			"source": "Sobre nós | Contactos",
 			"target_en": "About Us | Contacts",
 			"target_es": "Sobre nosotros | Contactos",
@@ -182,9 +170,141 @@ var linguJSON = {
 		},
 		{
 			"source": "Estamos disponíveis para produzir o molde final e responder às suas necessidades com a mais elevada qualidade.",
-			"target_en": "We are available to produce the final mold and meet your needs with the highest quality..",
+			"target_en": "We are available to produce the final mold and meet your needs with the highest quality.",
 			"target_es": "Estamos a su disposición para fabricar el molde definitivo y satisfacer sus necesidades con la máxima calidad.",
 			"target_fr": "Nous sommes à votre disposition pour produire le moule final et répondre à vos besoins avec la plus haute qualité."
+		},
+		{
+			"source": "Selagem",
+			"target_en": "Sealing",
+			"target_es": "Sellado",
+			"target_fr": "Scellement"
+		},
+		{
+			"source": "Tem um projeto em mente?",
+			"target_en": "Do you have a project in mind?",
+			"target_es": "¿Tiene algún proyecto en mente?",
+			"target_fr": "Avez-vous un projet en tête ?"
+		},
+		{
+			"source": "Vamos trabalhar juntos.",
+			"target_en": "Let's work together.",
+			"target_es": "Trabajemos juntos.",
+			"target_fr": "Travaillons ensemble."
+		},
+		{
+			"source": "Rede Fixa Nacional",
+			"target_en": "National Fixed Network",
+			"target_es": "Red fija nacional",
+			"target_fr": "Réseau fixe national."
+		},
+		{
+			"source": "Entre em contacto connosco",
+			"target_en": "Contact us",
+			"target_es": "Póngase en contacto con nosotros",
+			"target_fr": "Contactez nous"
+		},
+		{
+			"source": "Onde estamos?",
+			"target_en": "Where are we?",
+			"target_es": "¿Dónde estamos?",
+			"target_fr": "Où en sommes-nous?"
+		},
+		{
+			"source": "Empresa",
+			"target_en": "Company",
+			"target_es": "Empresa",
+			"target_fr": "Entreprise"
+		},
+		{
+			"source": "Sustentabilidade",
+			"target_en": "Where are we?",
+			"target_es": "Sostenibilidad",
+			"target_fr": "Soutenabilité"
+		},
+		{
+			"source": "Política de Qualidade",
+			"target_en": "Quality Policy",
+			"target_es": "Política de calidad",
+			"target_fr": "Politique de qualité"
+		},
+		{
+			"source": "Serviços",
+			"target_en": "Services",
+			"target_es": "Servicios",
+			"target_fr": "Services"
+		},
+		{
+			"source": "Injeção",
+			"target_en": "Injection",
+			"target_es": "Inyección",
+			"target_fr": "Injection"
+		},
+		{
+			"source": "Sopro",
+			"target_en": "Blow",
+			"target_es": "Sople",
+			"target_fr": "Souffler"
+		},
+		{
+			"source": "Termoformagem",
+			"target_en": "Thermoforming",
+			"target_es": "Termoformado",
+			"target_fr": "Thermoformage"
+		},
+		{
+			"source": "Personalizações",
+			"target_en": "Customizations",
+			"target_es": "Personalizaciones",
+			"target_fr": "Personnalisations"
+		},
+		{
+			"source": "Produtos",
+			"target_en": "Products",
+			"target_es": "Productos",
+			"target_fr": "Produits"
+		},
+		{
+			"source": "Catálogo Geral",
+			"target_en": "General Catalog",
+			"target_es": "Catálogo general",
+			"target_fr": "Catalogue général"
+		},
+		{
+			"source": "Frascos",
+			"target_en": "Jars",
+			"target_es": "Botellas",
+			"target_fr": "Bouteilles"
+		},
+		{
+			"source": "Sazonais",
+			"target_en": "Seasonal",
+			"target_es": "Estacional",
+			"target_fr": "Saisonnier"
+		},
+		{
+			"source": "Contactos",
+			"target_en": "Contact",
+			"target_es": "Contacto",
+			"target_fr": "Contact"
+		},
+		{
+			"source": "Enviar email",
+			"target_en": "Send an email",
+			"target_es": "Enviar correo electrónico",
+			"target_fr": "Envoyer un courriel"
+		},
+		{
+			"source": "Submeter Currículo",
+			"target_en": "Submit Resume",
+			"target_es": "Enviar CV",
+			"target_fr": "Soumettre un CV"
+		},
+		{
+			"source": "Cofinanciado por:",
+			"target_en": "Co-financed by:",
+			"target_es": "Cofinanciado por:",
+			"target_fr": "Cofinancé par:"
 		},
 		{
 			"source": "Conheça a nossa gama de produtos",
