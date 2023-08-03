@@ -157,46 +157,34 @@ var linguJSON = {
   			"target_fr": "Passer l'Histoire"
 		},
 		{
-			"source": "Nasceu a Plásticos Futura! Inicio de produção e fornecimento de embalagens para alimentos.",
-			"target_en": "Plásticos Futura was born! Start of production and supply of packaging for food.",
-			"target_es": "¡Nació Plásticos Futura! Inicio de producción y suministro de envases para alimentos.",
-			"target_fr": "Plásticos Futura est née ! Début de la production et de l'approvisionnement d'emballages pour aliments."
-		},
-		{
-			"source": "Inauguração das novas instalações.",
-			"target_en": "Inauguration of the new facilities.",
-			"target_es": "Inauguración de las nuevas instalaciones.",
-			"target_fr": "Inauguration des nouvelles installations."
-		},
-		{
-			"source": "Primeira exportação para a Europa. Atualmente, daremos resposta às necessidades de mais de 50 países.",
-			"target_en": "First export to Europe. Currently, we meet the needs of more than 50 countries.",
-			"target_es": "Primera exportación a Europa. Actualmente, atendemos las necesidades de más de 50 países.",
-			"target_fr": "Première exportation vers l'Europe. Actuellement, nous répondons aux besoins de plus de 50 pays."
-		},
-		{
-			"source": "Certificação ISO 9001.",
-			"target_en": "ISO 9001 Certification.",
-			"target_es": "Certificación ISO 9001.",
-			"target_fr": "Certification ISO 9001."
-		},
-		{
-			"source": "Primeira linha de máquinas de sopro com tecnologia PET.",
-			"target_en": "First line of blow molding machines with PET technology.",
-			"target_es": "Primera línea de máquinas de soplado con tecnología PET.",
-			"target_fr": "Première ligne de machines de soufflage avec technologie PET."
-		},
-		{
 			"source": "Sobre nós | Contactos",
 			"target_en": "About Us | Contacts",
 			"target_es": "Sobre nosotros | Contactos",
 			"target_fr": "À propos de nous | Contacts"
 		},
 		{
-			"source": "Análise das suas necessidades e ideias. Análise da viabilidade económica com as necessidades para produção industrial.",
-			"target_en": "Analysis of your needs and ideas. Analysis of the economic feasibility with the requirements for industrial production.",
-			"target_es": "Análisis de sus necesidades e ideas. Análisis de la viabilidad económica con los requisitos para la producción industrial.",
-			"target_fr": "Analyse de vos besoins et idées. Analyse de la faisabilité économique avec les exigences de production industrielle."
+			"source": "Analisamos as suas necessidades e ideias, assim como a viabilidade económica e produção industrial.",
+			"target_en": "We analyze your needs and ideas, as well as economic viability and industrial production.",
+			"target_es": "Analizamos sus necesidades e ideas, así como la viabilidad económica y la producción industrial.",
+			"target_fr": "Nous analysons vos besoins et vos idées, ainsi que la viabilité économique et la production industrielle."
+		},
+		{
+			"source": "Desenvolvemos e concebemos o produto em 2D/3D.",
+			"target_en": "We develop and design the product in 2D/3D.",
+			"target_es": "Desarrollamos y diseñamos el producto en 2D/3D.",
+			"target_fr": "Nous développons et concevons le produit en 2D/3D."
+		},
+		{
+			"source": "Podemos executar uma produção teste antes da produção em massa.",
+			"target_en": "We can run a test production before mass production.",
+			"target_es": "Podemos realizar una producción de prueba antes de la producción en serie.",
+			"target_fr": "Nous pouvons effectuer une production d'essai avant la production de masse."
+		},
+		{
+			"source": "Estamos disponíveis para produzir o molde final e responder às suas necessidades com a mais elevada qualidade.",
+			"target_en": "We are available to produce the final mold and meet your needs with the highest quality..",
+			"target_es": "Estamos a su disposición para fabricar el molde definitivo y satisfacer sus necesidades con la máxima calidad.",
+			"target_fr": "Nous sommes à votre disposition pour produire le moule final et répondre à vos besoins avec la plus haute qualité."
 		},
 		{
 			"source": "Conheça a nossa gama de produtos",
