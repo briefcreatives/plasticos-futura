@@ -470,6 +470,84 @@ var linguJSON = {
 			"target_fr": "Nous encourageons l'utilisation rationnelle de l'énergie et de l'eau et la sécurité environnementale en respectant la législation en vigueur et en mettant en œuvre la politique des 4R : Réduire, Réutiliser, Recycler et Récupérer."
 		},
 		{
+			"source": "Todos os processos produtivos e de desenvolvimento de novos produtos visam a redução e reutilização de matéria-prima plástica bem como a inserção de materiais com menor impacto ambiental.",
+			"target_en": "All production processes and the development of new products aim at the reduction and reuse of plastic raw materials as well as the insertion of materials with less environmental impact.",
+			"target_es": "Todos los procesos de producción y desarrollo de nuevos productos tienen como objetivo reducir y reutilizar las materias primas plásticas, así como introducir materiales con menor impacto ambiental.",
+			"target_fr": "Tous les processus de production et le développement de nouveaux produits visent à réduire et à réutiliser les matières premières plastiques, ainsi qu'à introduire des matériaux ayant un impact moindre sur l'environnement."
+		},
+		{
+			"source": "Temos como objetivo produzir 100% das nossas embalagens de forma a serem RECICLÁVEIS, COMPOSTÁVEIS ou BIODEGRADÁVEIS.",
+			"target_en": "We aim to produce 100% of our packaging to be RECYCLABLE, COMPOSABLE or BIODEGRADABLE.",
+			"target_es": "Nuestro objetivo es producir el 100% de nuestros envases de forma que sean RECICLABLES, COMPOSIBLES o BIODEGRADABLES.",
+			"target_fr": "Nous visons à produire 100 % de nos emballages de manière à ce qu'ils soient RECYCLABLES, COMPOSABLES ou BIODEGRADABLES."
+		},
+		{
+			"source": "A Qualidade e a Segurança Alimentar estão inseridos na dinâmica estratégica da empresa, sendo considerados como vetores de melhoria a satisfação de clientes, o crescimento sustentado, e o estabelecimento de parcerias com vários agentes do mercado.",
+			"target_en": "Quality and Food Safety are part of the company's strategic dynamics, with customer satisfaction, sustained growth, and the establishment of partnerships with various market agents being considered as improvement vectors.",
+			"target_es": "La calidad y la seguridad alimentaria forman parte de la dinámica estratégica de la empresa, considerando como vectores de mejora la satisfacción del cliente, el crecimiento sostenido y el establecimiento de asociaciones con diversos agentes del mercado.",
+			"target_fr": "La qualité et la sécurité alimentaire font partie de la dynamique stratégique de l'entreprise, la satisfaction des clients, la croissance soutenue et l'établissement de partenariats avec différents acteurs du marché étant considérés comme des vecteurs d'amélioration."
+		},
+		{
+			"source": "De forma a atingir a Visão estabelecida, e o comprometimento com a Qualidade e Segurança Alimentar, a nossa organização rege-se pelos seguintes princípios:",
+			"target_en": "In order to achieve the established Vision, and the commitment to Quality and Food Safety, our organization is governed by the following principles:",
+			"target_es": "Para alcanzar la Visión establecida, y el compromiso con la Calidad y la Seguridad Alimentaria, nuestra organización se rige por los siguientes principios:",
+			"target_fr": "Afin de concrétiser la vision établie et l'engagement en faveur de la qualité et de la sécurité alimentaire, notre organisation est régie par les principes suivants :"
+		},
+		{
+			"source": "Conceber e Fabricar embalagens plásticas edispositivos médicos que satisfaçam os requisitos dos Clientes, os requisitos desegurança alimentar e os requisitos legais em vigor, ao mais baixo custoassegurando a sustentabilidade do negócio;",
+			"target_en": "Design and manufacture plastic packaging and medical devices that meet customer requirements, food safety requirements and the legal requirements in force, at the lowest cost, ensuring the sustainability of the business;",
+			"target_es": "Diseñar y fabricar envases de plástico y productos sanitarios que cumplan los requisitos de los clientes, los requisitos de seguridad alimentaria y los requisitos legales vigentes al menor coste, garantizando la sostenibilidad de la empresa;",
+			"target_fr": "Concevoir et fabriquer des emballages en plastique et des dispositifs médicaux qui répondent aux exigences des clients, aux exigences en matière de sécurité alimentaire et aux exigences légales en vigueur, au coût le plus bas possible, en assurant la durabilité de l'entreprise ;"
+		},
+		{
+			"source": "Apostar na inovação e diversificação dos produtos, tendo como objetivo acompanhar a evolução do mercado.",
+			"target_en": "Bet on innovation and diversification of products, aiming to follow the evolution of the market.",
+			"target_es": "Invertir en innovación y diversificación de productos, con el objetivo de seguir la evolución del mercado.",
+			"target_fr": "Investir dans l'innovation et la diversification des produits, afin de suivre l'évolution du marché."
+		},
+		{
+			"source": "Desempenhar um papel ativo na Responsabilidade Social através de ações que fomentem o bem-estar na comunidade e nos parceiros sociais;",
+			"target_en": "Bet on innovation and diversification of products, aiming to follow the evolution of the market.",
+			"target_es": "Desempeñar un papel activo en la Responsabilidad Social mediante acciones que fomenten el bienestar en la comunidad y los interlocutores sociales;",
+			"target_fr": "Jouer un rôle actif dans la responsabilité sociale par des actions qui favorisent le bien-être de la communauté et des partenaires sociaux ;"
+		},
+		{
+			"source": "Assumir uma atitude ambiental responsável, através de práticas conscientes e de uma utilização sustentável dos recursos materiais, naturais e energéticos, minimizando o impacto ambiental;",
+			"target_en": "Take a responsible environmental attitude through conscious practices and sustainable use of material, natural and energy resources, minimizing environmental impact;",
+			"target_es": "Adoptar una postura medioambiental responsable mediante prácticas conscientes y un uso sostenible de los recursos materiales, naturales y energéticos, minimizando el impacto medioambiental;",
+			"target_fr": "Adopter une attitude environnementale responsable par des pratiques conscientes et une utilisation durable des ressources matérielles, naturelles et énergétiques, en minimisant l'impact sur l'environnement ;"
+		},
+		{
+			"source": "Dotar os colaboradores com conhecimentos de Boas Práticas de Fabrico, nomeadamente Higiene e Segurança Alimentar, sensibilizando para uma correta execução das atividades;",
+			"target_en": "Provide employees with knowledge of Good Manufacturing Practices, namely Food Hygiene and Safety, raising awareness for the correct execution of activities;",
+			"target_es": "Proporcionar a los empleados conocimientos sobre Buenas Prácticas de Fabricación, concretamente sobre Higiene y Seguridad Alimentaria, concienciándolos para la correcta ejecución de las actividades;",
+			"target_fr": "Fournir aux employés des connaissances sur les bonnes pratiques de fabrication, à savoir l'hygiène et la sécurité alimentaires, en les sensibilisant à l'exécution correcte des activités ;"
+		},
+		{
+			"source": "Promover a motivação dos colaboradores, de forma a reter e potenciar os colaboradores com talento;",
+			"target_en": "Promote employee motivation in order to retain and empower talented employees;",
+			"target_es": "Promover la motivación de los empleados para retener y potenciar a los empleados con talento;",
+			"target_fr": "Promouvoir la motivation des employés afin de retenir et de responsabiliser les employés talentueux ;"
+		},
+		{
+			"source": "Fomentar o trabalho de equipa, através de uma eficaz comunicação interna e externa, com as partes interessadas, nomeadamente, fornecedores, clientes e autoridades competentes. ",
+			"target_en": "Fostering teamwork through effective internal and external communication with stakeholders, including suppliers, customers and competent authorities. ",
+			"target_es": "Fomentar el trabajo en equipo mediante una comunicación interna y externa eficaz con las partes interesadas, incluidos proveedores, clientes y autoridades competentes. ",
+			"target_fr": "Favoriser le travail d'équipe par une communication interne et externe efficace avec les parties prenantes, y compris les fournisseurs, les clients et les autorités compétentes. "
+		},
+		{
+			"source": "Ao atuarmos desta forma, permitimos que seja utilizada, com sucesso, toda a tecnologia disponível e que seja formado um Conceito de Qualidade e Segurança Alimentar, com vista ao cumprimento dos requisitos e à Melhoria Contínua da eficácia do SG, bem como a um enquadramento para o estabelecimento e a revisão dos objetivos.,
+			"target_en": "By acting this way, we enable the successful use of all available technology and the formation of a Quality and Food Safety Concept for meeting requirements and Continuous Improvement of the effectiveness of the FS, as well as a framework for setting and reviewing objectives.",
+			"target_es": "Actuando de este modo, permitimos que se utilice con éxito toda la tecnología disponible y que se forme un Concepto de Calidad y Seguridad Alimentaria, con vistas al cumplimiento de los requisitos y a la Mejora Continua de la eficacia de la SG, así como un marco para establecer y revisar los objetivos.",
+			"target_fr": "En agissant de la sorte, nous permettons d'utiliser avec succès toutes les technologies disponibles et de mettre en place un concept de qualité et de sécurité alimentaire, en vue de répondre aux exigences et d'améliorer en permanence l'efficacité du SG, ainsi qu'un cadre pour la fixation et la révision des objectifs."
+		},
+		{
+			"source": "Certificados,
+			"target_en": "Certificates",
+			"target_es": "Certificados",
+			"target_fr": "Certificats"
+		},
+		{
 			"source": "Conheça a nossa gama de produtos",
 			"target_en": "Discover our range of products",
 			"target_es": "Descubra nuestra gama de productos",
