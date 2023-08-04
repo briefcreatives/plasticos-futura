@@ -535,13 +535,13 @@ var linguJSON = {
 			"target_fr": "Favoriser le travail d'équipe par une communication interne et externe efficace avec les parties prenantes, y compris les fournisseurs, les clients et les autorités compétentes. "
 		},
 		{
-			"source": "Ao atuarmos desta forma, permitimos que seja utilizada, com sucesso, toda a tecnologia disponível e que seja formado um Conceito de Qualidade e Segurança Alimentar, com vista ao cumprimento dos requisitos e à Melhoria Contínua da eficácia do SG, bem como a um enquadramento para o estabelecimento e a revisão dos objetivos.,
+			"source": "Ao atuarmos desta forma, permitimos que seja utilizada, com sucesso, toda a tecnologia disponível e que seja formado um Conceito de Qualidade e Segurança Alimentar, com vista ao cumprimento dos requisitos e à Melhoria Contínua da eficácia do SG, bem como a um enquadramento para o estabelecimento e a revisão dos objetivos.",
 			"target_en": "By acting this way, we enable the successful use of all available technology and the formation of a Quality and Food Safety Concept for meeting requirements and Continuous Improvement of the effectiveness of the FS, as well as a framework for setting and reviewing objectives.",
 			"target_es": "Actuando de este modo, permitimos que se utilice con éxito toda la tecnología disponible y que se forme un Concepto de Calidad y Seguridad Alimentaria, con vistas al cumplimiento de los requisitos y a la Mejora Continua de la eficacia de la SG, así como un marco para establecer y revisar los objetivos.",
 			"target_fr": "En agissant de la sorte, nous permettons d'utiliser avec succès toutes les technologies disponibles et de mettre en place un concept de qualité et de sécurité alimentaire, en vue de répondre aux exigences et d'améliorer en permanence l'efficacité du SG, ainsi qu'un cadre pour la fixation et la révision des objectifs."
 		},
 		{
-			"source": "Certificados,
+			"source": "Certificados",
 			"target_en": "Certificates",
 			"target_es": "Certificados",
 			"target_fr": "Certificats"
