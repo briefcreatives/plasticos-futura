@@ -151,6 +151,12 @@ var linguJSON = {
 			"target_fr": "À propos de nous | Contacts"
 		},
 		{
+			"source": "VIABILIDADE",
+			"target_en": "VIABILITY",
+			"target_es": "VIABILIDAD",
+			"target_fr": "VIABILITÉ"
+		},
+		{
 			"source": "Analisamos as suas necessidades e ideias, assim como a viabilidade económica e produção industrial.",
 			"target_en": "We analyze your needs and ideas, as well as economic viability and industrial production.",
 			"target_es": "Analizamos sus necesidades e ideas, así como la viabilidad económica y la producción industrial.",
@@ -163,10 +169,34 @@ var linguJSON = {
 			"target_fr": "Nous développons et concevons le produit en 2D/3D."
 		},
 		{
+			"source": "PROTÓTIPOS",
+			"target_en": "PROTOTYPES",
+			"target_es": "PROTOTIPOS",
+			"target_fr": "PROTOTYPES"
+		},
+		{
+			"source": "Criamos protótipos, ferramentas e qualquer tipo de maquinaria que seja necessária para garantir que somos a melhor solução para o seu projeto.",
+			"target_en": "We create prototypes, tools and any type of machinery that is needed to ensure that we are the best solution for your project.",
+			"target_es": "Creamos prototipos, herramientas y cualquier tipo de maquinaria que sea necesaria para garantizar que somos la mejor solución para su proyecto.",
+			"target_fr": "Nous créons des prototypes, des outils et tout type de machines nécessaires pour garantir que nous sommes la meilleure solution pour votre projet."
+		},
+		{
+			"source": "PRÉ-PRODUÇÃO",
+			"target_en": "PRE-PRODUCTION",
+			"target_es": "PREPRODUCCIÓN",
+			"target_fr": "PRE-PRODUCTION"
+		},
+		{
 			"source": "Podemos executar uma produção teste antes da produção em massa.",
 			"target_en": "We can run a test production before mass production.",
 			"target_es": "Podemos realizar una producción de prueba antes de la producción en serie.",
 			"target_fr": "Nous pouvons effectuer une production d'essai avant la production de masse."
+		},
+		{
+			"source": "MOLDE FINAL",
+			"target_en": "FINAL MOLD",
+			"target_es": "MOLDE FINAL",
+			"target_fr": "MOULE FINAL"
 		},
 		{
 			"source": "Estamos disponíveis para produzir o molde final e responder às suas necessidades com a mais elevada qualidade.",
@@ -203,6 +233,30 @@ var linguJSON = {
 			"target_en": "Contact us",
 			"target_es": "Póngase en contacto con nosotros",
 			"target_fr": "Contactez nous"
+		},
+		{
+			"source": "Nome",
+			"target_en": "Name",
+			"target_es": "Nombre",
+			"target_fr": "Nom"
+		},
+		{
+			"source": "Contacto",
+			"target_en": "Contact",
+			"target_es": "Contacto",
+			"target_fr": "Contact"
+		},
+		{
+			"source": "Mensagem",
+			"target_en": "Message",
+			"target_es": "Mensaje",
+			"target_fr": "Message"
+		},
+		{
+			"source": "Enviar",
+			"target_en": "Send",
+			"target_es": "Enviar",
+			"target_fr": "Envoyer"
 		},
 		{
 			"source": "Onde estamos?",
@@ -305,6 +359,114 @@ var linguJSON = {
 			"target_en": "Co-financed by:",
 			"target_es": "Cofinanciado por:",
 			"target_fr": "Cofinancé par:"
+		},
+		{
+			"source": "Procuramos a inovação constante em conjunto com os nossos clientes. Temos a capacidade de acompanhar qualquer projeto, de desenvolvimento de produto, desde a ideia inicial até ao fabrico do produto final.",
+			"target_en": "We seek constant innovation together with our customers. We have the ability to accompany any product development project, from the initial idea to the manufacture of the final product.",
+			"target_es": "Buscamos la innovación constante junto con nuestros clientes. Tenemos capacidad para acompañar cualquier proyecto de desarrollo de producto, desde la idea inicial hasta la fabricación del producto final.",
+			"target_fr": "Nous cherchons à innover en permanence avec nos clients. Nous avons la capacité d'accompagner tout projet de développement de produit, de l'idée initiale à la fabrication du produit final."
+		},
+		{
+			"source": "Temos ao dispor dos nossos clientes uma equipa que assegura o cumprimento de requisitos, prazos e a gestão de custos.",
+			"target_en": "We provide our clients with a team that ensures compliance with requirements, deadlines and cost management.",
+			"target_es": "Tenemos un equipo a disposición de nuestros clientes para garantizar el cumplimiento de los requisitos, los plazos y la gestión de los costes.",
+			"target_fr": "Nous mettons à la disposition de nos clients une équipe qui veille au respect des exigences, des délais et de la gestion des coûts."
+		},
+		{
+			"source": "Prestamos serviços nas seguintes áreas:",
+			"target_en": "We provide services in the following areas:",
+			"target_es": "Prestamos servicios en las siguientes áreas:",
+			"target_fr": "Nous fournissons des services dans les domaines suivants :"
+		},
+		{
+			"source": "Desenvolvimento & Conceção de produto",
+			"target_en": "Product development & design",
+			"target_es": "Desarrollo y diseño de productos",
+			"target_fr": "Développement et conception de produits"
+		},
+		{
+			"source": "Prototipagem pelo processo SLS (sinterização a laser seletiva), Impressão 3D, CNC Maquinado",
+			"target_en": "Prototyping by SLS process (selective laser sintering), 3D Printing, CNC Machined",
+			"target_es": "Creación de prototipos mediante proceso SLS (sinterizado selectivo por láser), impresión 3D, mecanizado CNC",
+			"target_fr": "Prototypage par procédé SLS (frittage sélectif par laser), impression 3D, usinage CNC"
+		},
+		{
+			"source": "Projeto e produção de moldes de Injeção, Sopro e Termoformagem",
+			"target_en": "Design and production of Injection, Blow and Thermoforming molds",
+			"target_es": "Diseño y producción de moldes de inyección, soplado y termoformado",
+			"target_fr": "Conception et production de moules d'injection, de soufflage et de thermoformage"
+		},
+		{
+			"source": "Flexibilidade na produção de diversas quantidades.",
+			"target_en": "Flexibility in producing various quantities.",
+			"target_es": "Flexibilidad para producir diversas cantidades.",
+			"target_fr": "Flexibilité dans la production de quantités variées."
+		},
+		{
+			"source": "Produção de dispositivos médicos em “Clean Room” com certificação ISO 6",
+			"target_en": "Production of medical devices in "Clean Room" with ISO 6 certification",
+			"target_es": "Producción de productos sanitarios en "Clean Room" con certificación ISO 6",
+			"target_fr": "Production de dispositifs médicaux dans une "Clean Room" certifiée ISO 6"
+		},
+		{
+			"source": "Personalização: In-Mold Labeling",
+			"target_en": "Customization: In-Mold Labeling",
+			"target_es": "Personalización: etiquetado en molde",
+			"target_fr": "Personnalisation : étiquetage dans le moule"
+		},
+		{
+			"source": "Bi-Material",
+			"target_en": "Bi-Material",
+			"target_es": "Bi-Material",
+			"target_fr": "Bi-matériaux"
+		},
+		{
+			"source": "Produção com serviço integral de montagens para terceiros",
+			"target_en": "Full-service production of assemblies for third parties",
+			"target_es": "Servicio completo de producción de conjuntos para terceros",
+			"target_fr": "Production d'assemblages pour des tiers dans le cadre d'un service complet"
+		},
+		{
+			"source": "O que nos distingue",
+			"target_en": "What sets us apart",
+			"target_es": "Lo que nos diferencia",
+			"target_fr": "Ce qui nous distingue"
+		},
+		{
+			"source": "Facilidade em fabricar e testar novos produtos",
+			"target_en": "Easy to manufacture and test new products",
+			"target_es": "Facilidad para fabricar y probar nuevos productos",
+			"target_fr": "Facilité de fabrication et d'essai de nouveaux produits"
+		},
+		{
+			"source": "Manutenção preventiva e corretiva",
+			"target_en": "Preventive and corrective maintenance",
+			"target_es": "Mantenimiento preventivo y correctivo",
+			"target_fr": "Maintenance préventive et corrective"
+		},
+		{
+			"source": "Soluções imediatase flexiveis",
+			"target_en": "Immediate and flexible solutions",
+			"target_es": "Soluciones inmediatas y flexibles",
+			"target_fr": "Des solutions immédiates et flexibles"
+		},
+		{
+			"source": "Os seus projetos",
+			"target_en": "Your projects",
+			"target_es": "Sus proyectos",
+			"target_fr": "Vos projets"
+		},
+		{
+			"source": "A proteção ambiental é uma das bandeiras da Plásticos Futura, sendo parte integrante da Política do Sistema de Gestão Integrado.",
+			"target_en": "Environmental protection is one of Plásticos Futura's flagships, being an integral part of the Integrated Management System Policy.",
+			"target_es": "La protección del medio ambiente es una de las banderas de Plásticos Futura, siendo parte integrante de la Política del Sistema de Gestión Integrado.",
+			"target_fr": "La protection de l'environnement est l'une des priorités de Plásticos Futura et fait partie intégrante de la politique du système de gestion intégrée."
+		},
+		{
+			"source": "Promovemos o uso racional de energia, água e a segurança ambiental cumprindo com a legislação em vigor e implementando a política dos 4Rs: Reduzir, Reutilizar, Reciclar e Recuperar.",
+			"target_en": "We promote the rational use of energy, water and environmental safety by complying with current legislation and implementing the 4Rs policy: Reduce, Reuse, Recycle and Recover.",
+			"target_es": "Promovemos el uso racional de la energía, el agua y la seguridad medioambiental cumpliendo la legislación vigente y aplicando la política de las 4R: Reducir, Reutilizar, Reciclar y Recuperar.",
+			"target_fr": "Nous encourageons l'utilisation rationnelle de l'énergie et de l'eau et la sécurité environnementale en respectant la législation en vigueur et en mettant en œuvre la politique des 4R : Réduire, Réutiliser, Recycler et Récupérer."
 		},
 		{
 			"source": "Conheça a nossa gama de produtos",
