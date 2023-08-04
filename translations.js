@@ -403,11 +403,10 @@ var linguJSON = {
 			"target_fr": "Flexibilité dans la production de quantités variées."
 		},
 		{
-			"source": "Produção de dispositivos médicos em \"Clean Room\" com certificação ISO 6",
-			"target_en": "Production of medical devices in \"Clean Room\" with ISO 6 certification",
-			"target_es": "Producción de productos sanitarios en \"Clean Room\" con certificación ISO 6",
-			"target_fr": "Production de dispositifs médicaux dans une \"Clean Room\" certifiée ISO 6"
-
+		      "source": "Produção de dispositivos médicos em \“Clean Room\” com certificação ISO 6",
+		      "target_en": "Production of medical devices in \"Clean Room\" with ISO 6 certification",
+		      "target_es": "Producción de productos sanitarios en \"Clean Room\" con certificación ISO 6",
+		      "target_fr": "Production de dispositifs médicaux dans une \"Clean Room\" certifiée ISO 6"
 		},
 		{
 			"source": "Personalização: In-Mold Labeling",
