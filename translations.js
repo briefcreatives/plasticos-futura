@@ -31,6 +31,84 @@ var linguJSON = {
   			"target_fr": "Agenda | Actualités"
 		},
 		{
+  			"source": "Em Novembro de 2022 a equipa Plásticos Futura foi à Disneyland Paris!",
+  			"target_en": "In November 2022 the Plásticos Futura team went to Disneyland Paris!",
+  			"target_es": "En noviembre de 2022, el equipo de Plasticos Futura fue a Disneyland París.",
+  			"target_fr": "En novembre 2022, l'équipe de Plasticos Futura s'est rendue à Disneyland Paris !"
+		},
+		{
+  			"source": "Férias de Verão 2023",
+  			"target_en": "Summer vacations 2023",
+  			"target_es": "Vacaciones de verano 2023",
+  			"target_fr": "Vacances d'été 2023"
+		},
+		{
+  			"source": "Estaremos encerrados para Férias de Verão de 9 a 23 de Agosto.",
+  			"target_en": "We will be closed for summer vacation from August 9 to 23.",
+  			"target_es": "Estaremos cerrados por vacaciones de verano del 9 al 23 de agosto.",
+  			"target_fr": "Nous serons fermés pour les vacances d'été du 9 au 23 août."
+		},
+		{
+  			"source": "Em Março de 2022 a equipa Plásticos Futura foi passar um fim-de-semana ao Algarve!",
+  			"target_en": "In March 2022 the Plásticos Futura team went to the Algarve for a weekend!",
+  			"target_es": "En marzo de 2022, el equipo de Plásticos Futura se fue de fin de semana al Algarve.",
+  			"target_fr": "En mars 2022, l'équipe de Plásticos Futura est partie en week-end en Algarve !"
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores na Feira Alimentaria 2022, em Barcelona.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at the Alimentaria 2022 fair in Barcelona.",
+  			"target_es": "Plásticos Futura formó parte de la lista de expositores de la feria Alimentaria 2022 de Barcelona.",
+  			"target_fr": "Plásticos Futura faisait partie de la liste des exposants de la foire Alimentaria 2022 à Barcelone."
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores na Feira SIAL 2022 , em Paris.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at the SIAL 2022 fair in Paris.",
+  			"target_es": "Plásticos Futura formó parte de la lista de expositores de la feria SIAL 2022 de París.",
+  			"target_fr": "Plásticos Futura faisait partie de la liste des exposants du salon SIAL 2022 à Paris."
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores da Feira FIBO 2022 , em Colónia.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at the FIBO 2022 fair in Cologne.",
+  			"target_es": "Plásticos Futura formó parte de la lista de expositores de la feria FIBO 2022 de Colonia.",
+  			"target_fr": "Plásticos Futura faisait partie de la liste des exposants du salon FIBO 2022 à Cologne."
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores da Feira Compamed 2022, em Dusseldorf.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at the Compamed 2022 trade fair in Dusseldorf.",
+  			"target_es": "Plásticos Futura formó parte de la lista de expositores de la feria Compamed 2022 de Düsseldorf.",
+  			"target_fr": "Plásticos Futura faisait partie de la liste des exposants du salon Compamed 2022 à Düsseldorf."
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores da FIBO 2023, em Colónia.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at FIBO 2023 in Cologne.",
+  			"target_es": "Plásticos Futura figuraba en la lista de expositores de FIBO 2023 en Colonia.",
+  			"target_fr": "Plásticos Futura figurait sur la liste des exposants du salon FIBO 2023 à Cologne."
+		},
+		{
+  			"source": "A Plásticos Futura fez parte da lista de expositores da Internorga 2023, em Hamburgo.",
+  			"target_en": "Plásticos Futura was part of the list of exhibitors at Internorga 2023 in Hamburg.",
+  			"target_es": "Plásticos Futura formó parte de la lista de expositores de Internorga 2023 en Hamburgo.",
+  			"target_fr": "Plásticos Futura faisait partie de la liste des exposants à Internorga 2023 à Hambourg."
+		},
+		{
+  			"source": "A equipa comercial esteve presente a visitar a Feira IAW em Colónia, na Alemanha.",
+  			"target_en": "The sales team was present visiting the IAW Trade Fair in Cologne, Germany.",
+  			"target_es": "El equipo comercial estuvo presente en la Feria IAW de Colonia (Alemania).",
+  			"target_fr": "L'équipe commerciale était présente pour visiter le salon IAW à Cologne, en Allemagne."
+		},
+		{
+  			"source": "A nossa equipa comercial esteve presente a visitar a Feira Horeca em Palma de Maiorca.",
+  			"target_en": "Our sales team was present visiting the Horeca Fair in Palma de Mallorca.",
+  			"target_es": "Nuestro equipo comercial estuvo presente visitando la Feria Horeca de Palma de Mallorca.",
+  			"target_fr": "Notre équipe de vente était présente au salon Horeca à Palma de Majorque."
+		},
+		{
+  			"source": "A nossa equipa comercial esteve de visita à Feira ISM em Colónia, na Alemanha.",
+  			"target_en": "Our sales team was visiting the ISM Fair in Cologne, Germany.",
+  			"target_es": "Nuestro equipo de ventas visitó la feria ISM de Colonia (Alemania).",
+  			"target_fr": "Notre équipe de vente a visité le salon ISM à Cologne, en Allemagne."
+		},
+		{
   			"source": "Desenvolvimento",
   			"target_en": "Development",
   			"target_es": "Desarrollo",
