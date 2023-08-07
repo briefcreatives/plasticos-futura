@@ -325,10 +325,10 @@ var linguJSON = {
 			"target_fr": "Boutique en ligne"
 		},
 		{
-			"source": "Inovação e Desenvolvimento | Os seus projetos",
-			"target_en": "Innovation & Development | Your projects",
-			"target_es": "Innovación y desarrollo | Sus proyectos",
-			"target_fr": "Innovation et développement | Vos projets"
+			"source": "Inovação e Desenvolvimento | <strong>Os seus projetos</strong>",
+			"target_en": "Innovation & Development | <strong>Your projects</strong>",
+			"target_es": "Innovación y desarrollo | <strong>Sus proyectos</strong>",
+			"target_fr": "Innovation et développement | <strong>Vos projets</strong>"
 		},
 		{
 			"source": "Selagem",
@@ -619,10 +619,10 @@ var linguJSON = {
 			"target_fr": "Tous les processus de production et le développement de nouveaux produits visent à réduire et à réutiliser les matières premières plastiques, ainsi qu'à introduire des matériaux ayant un impact moindre sur l'environnement."
 		},
 		{
-			"source": "Temos como objetivo produzir 100% das nossas embalagens de forma a serem RECICLÁVEIS, COMPOSTÁVEIS ou BIODEGRADÁVEIS.",
-			"target_en": "We aim to produce 100% of our packaging to be RECYCLABLE, COMPOSABLE or BIODEGRADABLE.",
-			"target_es": "Nuestro objetivo es producir el 100% de nuestros envases de forma que sean RECICLABLES, COMPOSIBLES o BIODEGRADABLES.",
-			"target_fr": "Nous visons à produire 100 % de nos emballages de manière à ce qu'ils soient RECYCLABLES, COMPOSABLES ou BIODEGRADABLES."
+			"source": "Temos como objetivo produzir 100% das nossas embalagens de forma a serem <strong>RECICLÁVEIS</strong>, <strong>COMPOSTÁVEIS</strong> ou <strong>BIODEGRADÁVEIS.</strong>",
+			"target_en": "We aim to produce 100% of our packaging to be <strong>RECYCLABLE</strong>, <strong>COMPOSABLE</strong> or <strong>BIODEGRADABLE.</strong>",
+			"target_es": "Nuestro objetivo es producir el 100% de nuestros envases de forma que sean <strong>RECICLABLES</strong>, <strong>COMPOSIBLES</strong> o <strong>BIODEGRADABLES.</strong>",
+			"target_fr": "Nous visons à produire 100 % de nos emballages de manière à ce qu'ils soient <strong>RECYCLABLES</strong>, <strong>COMPOSABLES</strong> ou <strong>BIODEGRADABLES.</strong>"
 		},
 		{
 			"source": "A Qualidade e a Segurança Alimentar estão inseridos na dinâmica estratégica da empresa, sendo considerados como vetores de melhoria a satisfação de clientes, o crescimento sustentado, e o estabelecimento de parcerias com vários agentes do mercado.",
