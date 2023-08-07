@@ -301,10 +301,10 @@ var linguJSON = {
 			"target_fr": "Saisonnier"
 		},
 		{
-			"source": "Lacticínios/Congelados",
-			"target_en": "Dairy/Frozen Products",
-			"target_es": "Productos lácteos/congelados",
-			"target_fr": "Produits laitiers/congelés"
+			"source": "Lacticínios/ Congelados",
+			"target_en": "Dairy/ Frozen Products",
+			"target_es": "Productos lácteos/ congelados",
+			"target_fr": "Produits laitiers/ congelés"
 		},
 		{
 			"source": "Suplementos Alimentares",
