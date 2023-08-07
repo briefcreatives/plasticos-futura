@@ -205,10 +205,76 @@ var linguJSON = {
 			"target_fr": "Nous sommes à votre disposition pour produire le moule final et répondre à vos besoins avec la plus haute qualité."
 		},
 		{
+			"source": "Doçaria/Snacks",
+			"target_en": "Sweets/Snacks",
+			"target_es": "Dulces/Snacks",
+			"target_fr": "Friandises/Snacks"
+		},
+		{
+			"source": "Cosmética",
+			"target_en": "Cosmetics",
+			"target_es": "Cosméticos",
+			"target_fr": "Cosmétiques"
+		},
+		{
+			"source": "Sazonal",
+			"target_en": "Seasonal",
+			"target_es": "Estacional",
+			"target_fr": "Saisonnier"
+		},
+		{
+			"source": "Lacticínios/Congelados",
+			"target_en": "Dairy/Frozen Products",
+			"target_es": "Productos lácteos/congelados",
+			"target_fr": "Produits laitiers/congelés"
+		},
+		{
+			"source": "Suplementos Alimentares",
+			"target_en": "Food Supplements",
+			"target_es": "Suplementos alimenticios",
+			"target_fr": "Suppléments alimentaires"
+		},
+		{
+			"source": "Farmacêutica",
+			"target_en": "Pharmaceutical",
+			"target_es": "Farmacéutica",
+			"target_fr": "Pharmacie"
+		},
+		{
+			"source": "Loja Online",
+			"target_en": "Online Store",
+			"target_es": "Tienda Virtual",
+			"target_fr": "Boutique en ligne"
+		},
+		{
+			"source": "Inovação e Desenvolvimento | Os seus projetos",
+			"target_en": "Innovation & Development | Your projects",
+			"target_es": "Innovación y desarrollo | Sus proyectos",
+			"target_fr": "Innovation et développement | Vos projets"
+		},
+		{
 			"source": "Selagem",
 			"target_en": "Sealing",
 			"target_es": "Sellado",
 			"target_fr": "Scellement"
+		},
+		{
+			"source": "Personalização",
+			"target_en": "Customization",
+			"target_es": "Personalización",
+			"target_fr": "Personnalisation"
+		},
+		{
+			"source": "Etiqueta",
+			"target_en": "Label",
+			"target_es": "Etiquetado",
+			"target_fr": "Étiquetage"
+		},
+		{
+			"source": "Serigrafia",
+			"target_en": "Screen printing",
+			"target_es": "Serigrafía",
+			"target_fr": "Sérigraphie"
 		},
 		{
 			"source": "Tem um projeto em mente?",
