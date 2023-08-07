@@ -712,10 +712,16 @@ var linguJSON = {
 	],
 	"translated_image_segments": [
         {
-            "img_source": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb37ee141a0629a537adc_sustentabilidade-desktop-2.png",
-	    "img_target_en": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png",
-            "img_target_es": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png",
-            "img_target_fr": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png"
+            "img_source": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ad17f680f8977c87530b_Desktop_PT.png",
+	    "img_target_en": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac510c89511f305a5c46_Desktop_EN.png",
+            "img_target_es": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac5707ca38893bc48d61_Desktop_ES.png",
+            "img_target_fr": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac5bbb241a103f7b8579_Desktop_FR.png"
+        },
+	{
+            "img_source": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac6193c2e5d16785631e_Mobile_PT.png",
+	    "img_target_en": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac6f2c3e6535104fa09d_Mobile_EN.png",
+            "img_target_es": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac7284fa703160203faf_Mobile_ES.png",
+            "img_target_fr": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac75bb241a103f7b8fca_Mobile_FR.png"
         }
     ],
 };
