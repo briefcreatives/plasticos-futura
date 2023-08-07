@@ -691,6 +691,18 @@ var linguJSON = {
 			"target_fr": "Certificats"
 		},
 		{
+			"source": "Fábrica - Plásticos Futura",
+			"target_en": "Factory - Plásticos Futura",
+			"target_es": "Fábrica - Plásticos Futura",
+			"target_fr": "Usine - Plásticos Futura"
+		},
+		{
+			"source": "Escritórios - Plásticos Futura",
+			"target_en": "Offices - Plásticos Futura",
+			"target_es": "Oficinas - Plásticos Futura",
+			"target_fr": "Bureaux - Plásticos Futura"
+		},
+		{
 			"source": "Conheça a nossa gama de produtos",
 			"target_en": "Discover our range of products",
 			"target_es": "Descubra nuestra gama de productos",
