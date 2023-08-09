@@ -607,10 +607,10 @@ var linguJSON = {
 			"target_fr": "La protection de l'environnement est l'une des priorités de Plásticos Futura et fait partie intégrante de la politique du système de gestion intégrée."
 		},
 		{
-			"source": "Promovemos o uso racional de energia, água e a segurança ambiental cumprindo com a legislação em vigor e implementando a política dos 4Rs: Reduzir, Reutilizar, Reciclar e Recuperar.",
-			"target_en": "We promote the rational use of energy, water and environmental safety by complying with current legislation and implementing the 4Rs policy: Reduce, Reuse, Recycle and Recover.",
-			"target_es": "Promovemos el uso racional de la energía, el agua y la seguridad medioambiental cumpliendo la legislación vigente y aplicando la política de las 4R: Reducir, Reutilizar, Reciclar y Recuperar.",
-			"target_fr": "Nous encourageons l'utilisation rationnelle de l'énergie et de l'eau et la sécurité environnementale en respectant la législation en vigueur et en mettant en œuvre la politique des 4R : Réduire, Réutiliser, Recycler et Récupérer."
+			"source": "Promovemos o uso racional de energia, água e a segurança ambiental cumprindo com a legislação em vigor e implementando a política dos 4Rs: <strong>Reduzir</strong>, <strong>Reutilizar</strong>, <strong>Reciclar</strong> e <strong>Recuperar</strong>.",
+			"target_en": "We promote the rational use of energy, water and environmental safety by complying with current legislation and implementing the 4Rs policy: <strong>Reduce</strong>, <strong>Reuse</strong>, <strong>Recycle</strong> and <strong>Recover</strong>.",
+			"target_es": "Promovemos el uso racional de la energía, el agua y la seguridad medioambiental cumpliendo la legislación vigente y aplicando la política de las 4R: <strong>Reducir</strong>, <strong>Reutilizar</strong>, <strong>Reciclar</strong> y <strong>Recuperar</strong>.",
+			"target_fr": "Nous encourageons l'utilisation rationnelle de l'énergie et de l'eau et la sécurité environnementale en respectant la législation en vigueur et en mettant en œuvre la politique des 4R : <strong>Réduire</strong>, <strong>Réutiliser</strong>, <strong>Recycler</strong> et <strong>Récupérer</strong>."
 		},
 		{
 			"source": "Todos os processos produtivos e de desenvolvimento de novos produtos visam a redução e reutilização de matéria-prima plástica bem como a inserção de materiais com menor impacto ambiental.",
