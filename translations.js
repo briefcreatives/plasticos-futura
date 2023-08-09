@@ -712,7 +712,7 @@ var linguJSON = {
 	],
 	"translated_image_segments": [
         {
-            "img_source": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ad17f680f8977c87530b_Desktop_PT.png",
+            "img_source": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d37421f485d9cbefda3bbd_Desktop_PT.png",
 	    "img_target_en": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac510c89511f305a5c46_Desktop_EN.png",
             "img_target_es": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac5707ca38893bc48d61_Desktop_ES.png",
             "img_target_fr": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac5bbb241a103f7b8579_Desktop_FR.png"
