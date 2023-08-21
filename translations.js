@@ -703,6 +703,12 @@ var linguJSON = {
 			"target_fr": "Bureaux - Plásticos Futura"
 		},
 		{
+			"source": "Opções de Tampa",
+			"target_en": "Cover Options",
+			"target_es": "Opciones en Tapa",
+			"target_fr": "Options de couvercle"
+		},
+		{
 			"source": "Conheça a nossa gama de produtos",
 			"target_en": "Discover our range of products",
 			"target_es": "Descubra nuestra gama de productos",
