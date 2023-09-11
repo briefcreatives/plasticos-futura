@@ -109,6 +109,12 @@ var linguJSON = {
   			"target_fr": "Notre équipe de vente a visité le salon ISM à Cologne, en Allemagne."
 		},
 		{
+  			"source": "A Plásticos Futura vai fazer parte da lista de expositores na Feira Anuga 2023, em Colónia, de 7 a 11 de Outubro!",
+  			"target_en": "Plásticos Futura will be one of the exhibitors at the Anuga 2023 trade fair in Cologne from October 7 to 11!",
+  			"target_es": "Plásticos Futura será uno de los expositores de la feria Anuga 2023, que se celebrará en Colonia del 7 al 11 de octubre.",
+  			"target_fr": "Plásticos Futura sera l'un des exposants du salon Anuga 2023 qui se tiendra à Cologne du 7 au 11 octobre !"
+		},
+		{
   			"source": "Desenvolvimento",
   			"target_en": "Development",
   			"target_es": "Desarrollo",
