@@ -715,6 +715,98 @@ var linguJSON = {
 			"target_fr": "Options de couvercle"
 		},
 		{
+			"source": "Durante 4 dias estivemos presentes na Horeca Expo em Ghent, Bélgica.",
+			"target_en": "We spent four days at the Horeca Expo in Ghent, Belgium.",
+			"target_es": "Pasamos cuatro días en la Horeca Expo de Gante (Bélgica).",
+			"target_fr": "Nous avons passé quatre jours à l'exposition Horeca à Gand, en Belgique."
+		},
+		{
+			"source": "Nos dias 24 e 25 de Novembro a equipa PF fez uma formação de TeamBuilding no Pena Avenura com desportos radicais!",
+			"target_en": "On November 24 and 25, the PF team did TeamBuilding training at Pena Avenura with extreme sports!",
+			"target_es": "Los días 24 y 25 de noviembre, el equipo de FP celebró una sesión de formación TeamBuilding en Peña Avenura ¡con deportes extremos!",
+			"target_fr": "Les 24 et 25 novembre, l'équipe PF a organisé une session de TeamBuilding à Pena Avenura avec des sports extrêmes !"
+		},
+		{
+			"source": "Cores disponíveis",
+			"target_en": "Available colors",
+			"target_es": "Colores disponibles",
+			"target_fr": "Couleurs disponibles"
+		},
+		{
+			"source": "Dimensões",
+			"target_en": "Dimensions",
+			"target_es": "Dimensiones",
+			"target_fr": "Dimensions"
+		},
+		{
+			"source": "Modelo -Tampa Metálica",
+			"target_en": "Model - Metal cover",
+			"target_es": "Modelo - Cubierta metálica",
+			"target_fr": "Modèle - Couvercle en métal"
+		},
+		{
+			"source": "Modelo -Tampa Plástica",
+			"target_en": "Model - Plastic Cover",
+			"target_es": "Modelo - Tapa de plástico",
+			"target_fr": "Modèle - Couvercle en plastique"
+		},
+		{
+			"source": "Materiais",
+			"target_en": "Materials",
+			"target_es": "Materiales",
+			"target_fr": "Matériaux"
+		},
+		{
+			"source": "Tampa Plástica",
+			"target_en": "Plastic cover",
+			"target_es": "Tapa de plástico",
+			"target_fr": "Couvercle en plastique"
+		},
+		{
+			"source": "Frasco",
+			"target_en": "Jar",
+			"target_es": "Frasco",
+			"target_fr": "Bouteille"
+		},
+		{
+			"source": "Polipropileno",
+			"target_en": "Polypropylene",
+			"target_es": "Polipropileno",
+			"target_fr": "Polypropylène"
+		},
+		{
+			"source": "Modelo",
+			"target_en": "Model",
+			"target_es": "Modelo",
+			"target_fr": "Modèle"
+		},
+		{
+			"source": "Capacidade máxima",
+			"target_en": "Maximum capacity",
+			"target_es": "Capacidad máxima",
+			"target_fr": "Capacité maximale"
+		},
+		{
+			"source": "Nossa História",
+			"target_en": "Our History",
+			"target_es": "Nuestra historia",
+			"target_fr": "Notre histoire"
+		},
+		{
+			"source": "Nasceu a Plásticos Futura!
+
+Inicio de produção e fornecimento de embalagens para alimentos.",
+			"target_en": "Plásticos Futura is born!
+
+Start of production and supply of food packaging.",
+			"target_es": "¡Nace Plásticos Futura!
+
+Inicio de la producción y suministro de envases alimentarios.",
+			"target_fr": "Plásticos Futura est né !
+
+Début de la production et de la fourniture d'emballages alimentaires."
+		},
+		{
 			"source": "Conheça a nossa gama de produtos",
 			"target_en": "Discover our range of products",
 			"target_es": "Descubra nuestra gama de productos",
