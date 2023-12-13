@@ -793,18 +793,10 @@ var linguJSON = {
 			"target_fr": "Notre histoire"
 		},
 		{
-			"source": "Nasceu a Plásticos Futura!
-
-Inicio de produção e fornecimento de embalagens para alimentos.",
-			"target_en": "Plásticos Futura is born!
-
-Start of production and supply of food packaging.",
-			"target_es": "¡Nace Plásticos Futura!
-
-Inicio de la producción y suministro de envases alimentarios.",
-			"target_fr": "Plásticos Futura est né !
-
-Début de la production et de la fourniture d'emballages alimentaires."
+			"source": "Nasceu a Plásticos Futura!.",
+			"target_en": "Plásticos Futura is born!",
+			"target_es": "¡Nace Plásticos Futura!",
+			"target_fr": "Plásticos Futura est né !."
 		},
 		{
 			"source": "Conheça a nossa gama de produtos",
