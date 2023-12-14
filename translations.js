@@ -793,10 +793,22 @@ var linguJSON = {
 			"target_fr": "Notre histoire"
 		},
 		{
-			"source": "Nasceu a Plásticos Futura!.",
-			"target_en": "Plásticos Futura is born!",
-			"target_es": "¡Nace Plásticos Futura!",
-			"target_fr": "Plásticos Futura est né !."
+			"source": "Saltar História",
+			"target_en": "Skip History",
+			"target_es": "Saltar Historia",
+			"target_fr": "Passer l'histoire"
+		},
+		{
+			"source": "Férias de Natal 2023",
+			"target_en": "Christmas Holidays 2023",
+			"target_es": "Vacaciones de Navidad 2023",
+			"target_fr": "Vacances de Noël 2023"
+		},
+		{
+			"source": "A época festiva é sinónimo de celebração, reflexão, e, acima de tudo, de preparação para o futuro. Vamos desligarmos as nossas máquinas, de 21 de dezembro a 5 de janeiro, para recarregar energias e, sobretudo, para preparar algumas novidades!",
+			"target_en": "The festive season is synonymous with celebration, reflection and, above all, preparing for the future. Let's unplug from December 21 to January 5 to recharge our batteries and, above all, to prepare some new things!",
+			"target_es": "Las fiestas son sinónimo de celebración, reflexión y, sobre todo, de preparación del futuro. Apaguemos las máquinas del 21 de diciembre al 5 de enero para recargar las pilas y, sobre todo, ¡para preparar cosas nuevas!",
+			"target_fr": "Les fêtes de fin d'année sont synonymes de célébration, de réflexion et surtout de préparation de l'avenir. Éteignons nos machines du 21 décembre au 5 janvier pour nous ressourcer et surtout préparer de nouvelles choses !"
 		},
 		{
 			"source": "Conheça a nossa gama de produtos",
