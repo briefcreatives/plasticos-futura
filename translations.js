@@ -799,6 +799,12 @@ var linguJSON = {
 			"target_fr": "Passer l'histoire"
 		},
 		{
+			"source": "Nasceu a Plásticos Futura!. ",
+			"target_en": "Plásticos Futura is born! ",
+			"target_es": "¡Nace Plásticos Futura!" ,
+			"target_fr": "Plásticos Futura est né !. "
+		},
+		{
 			"source": "Férias de Natal 2023",
 			"target_en": "Christmas Holidays 2023",
 			"target_es": "Vacaciones de Navidad 2023",
