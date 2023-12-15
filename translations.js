@@ -799,10 +799,16 @@ var linguJSON = {
 			"target_fr": "Passer l'histoire"
 		},
 		{
-			"source": "Nasceu a Plásticos Futura!. ",
-			"target_en": "Plásticos Futura is born! ",
-			"target_es": "¡Nace Plásticos Futura!" ,
-			"target_fr": "Plásticos Futura est né !. "
+			"source": "Nasceu a Plásticos Futura!.",
+			"target_en": "Plásticos Futura is born!",
+			"target_es": "¡Nace Plásticos Futura!",
+			"target_fr": "Plásticos Futura est né !"
+		},
+		{
+			"source": "Início de produção e fornecimento de embalagens para alimentos.",
+			"target_en": "Start of production and supply of food packaging.",
+			"target_es": "Inicio de producción y suministro de envases para alimentos.",
+			"target_fr": "Début de la production et de la fourniture d'emballages alimentaires."
 		},
 		{
 			"source": "Férias de Natal 2023",
