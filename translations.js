@@ -811,6 +811,132 @@ var linguJSON = {
 			"target_fr": "Début de la production et de la fourniture d'emballages alimentaires."
 		},
 		{
+			"source": "Inauguração das novas instalações.",
+			"target_en": "Inauguration of the new facilities.",
+			"target_es": "Inauguración de las nuevas instalaciones.",
+			"target_fr": "Inauguration des nouvelles installations."
+		},
+		{
+			"source": "Primeira exportação para a Europa.",
+			"target_en": "First export to Europe.",
+			"target_es": "Primera exportación a Europa.",
+			"target_fr": "Première exportation vers l'Europe."
+		},
+		{
+			"source": "Atualmente, damos resposta às necessidades de mais de 50 países.",
+			"target_en": "We currently meet the needs of more than 50 countries.",
+			"target_es": "Actualmente cubrimos las necesidades de más de 50 países.",
+			"target_fr": "Nous répondons actuellement aux besoins de plus de 50 pays."
+		},
+		{
+			"source": "Certificação ISO 9001.",
+			"target_en": "ISO 9001 certification.",
+			"target_es": "Certificación ISO 9001.",
+			"target_fr": "Certification ISO 9001."
+		},
+		{
+			"source": "Primeira linha de máquinas de sopro com tecnologia PET.",
+			"target_en": "First line of blow molding machines with PET technology.",
+			"target_es": "Primera línea de máquinas de moldeo por soplado con tecnología PET.",
+			"target_fr": "Première ligne de machines de moulage par soufflage dotées de la technologie PET."
+		},
+		{
+			"source": "Atualização de toda a maquinaria para ser totalmente elétrica de alta velocidade e robotizada.",
+			"target_en": "Upgrading all machinery to be fully electric, high-speed and robotized.",
+			"target_es": "Modernización de toda la maquinaria para que sea totalmente eléctrica, de alta velocidad y robotizada.",
+			"target_fr": "Modernisation de toutes les machines pour les rendre entièrement électriques, rapides et robotisées."
+		},
+		{
+			"source": "Sem óleo e sem poeiras! Tecnologia melhor para um mundo melhor!",
+			"target_en": "Oil-free and dust-free! Better technology for a better world!",
+			"target_es": "Sin aceite ni polvo Mejor tecnología para un mundo mejor",
+			"target_fr": "Sans huile ni poussière ! Une meilleure technologie pour un monde meilleur !"
+		},
+		{
+			"source": "Instalação da primeira Clean Room com certificação ISO 6.",
+			"target_en": "Installation of the first ISO 6 certified Clean Room.",
+			"target_es": "Instalación de la primera sala blanca con certificación ISO 6.",
+			"target_fr": "Installation de la première salle blanche certifiée ISO 6."
+		},
+		{
+			"source": "Começámos a ajudar a indústria médica a criar um mundo melhor.",
+			"target_en": "We started helping the medical industry to create a better world.",
+			"target_es": "Empezamos ayudando a la industria médica a crear un mundo mejor.",
+			"target_fr": "Nous avons commencé à aider l'industrie médicale à créer un monde meilleur."
+		},
+		{
+			"source": "Inicio da produção através do processo de Termoformagem.",
+			"target_en": "Start of production using the thermoforming process.",
+			"target_es": "Inicio de la producción mediante el proceso de termoformado.",
+			"target_fr": "Début de la production par le procédé de thermoformage."
+		},
+		{
+			"source": "Inauguração de um novo espaço 4000m2, para separação da zona administrativa.",
+			"target_en": "Inauguration of a new 4000m2 space to separate the administrative area.",
+			"target_es": "Inauguración de un nuevo espacio de 4000m2 para separar la zona administrativa.",
+			"target_fr": "Inauguration d'un nouvel espace de 4000m2 pour séparer la zone administrative."
+		},
+		{
+			"source": "Integração de novos produtos reutilizáveis em substituição de produtos de utilização única.",
+			"target_en": "Integration of new reusable products to replace single-use products.",
+			"target_es": "Integración de nuevos productos reutilizables para sustituir a los de un solo uso.",
+			"target_fr": "Intégration de nouveaux produits réutilisables pour remplacer les produits à usage unique."
+		},
+		{
+			"source": "Criação da nossa fábrica de moldes! Com o objetivo de dar resposta às suas necessidades de forma atempada, assim como obter excelentes resultados.",
+			"target_en": "Creation of our mold factory! With the aim of meeting your needs in a timely manner and achieving excellent results.",
+			"target_es": "Creación de nuestra fábrica de moldes Con el objetivo de responder puntualmente a sus necesidades y obtener excelentes resultados.",
+			"target_fr": "Création de notre usine de moules ! Dans le but de répondre à vos besoins dans les meilleurs délais et d'obtenir d'excellents résultats."
+		},
+		{
+			"source": "Aquisição de Painéis Solares, com redução de 25% de energia.",
+			"target_en": "Acquisition of Solar Panels, with a 25% energy reduction.",
+			"target_es": "Adquisición de paneles solares, con una reducción energética del 25%.",
+			"target_fr": "Acquisition de panneaux solaires, avec une réduction de 25 % de la consommation d'énergie."
+		},
+		{
+			"source": "Especialização em tecnologia para fabrico de produtos com IML.",
+			"target_en": "Specialization in technology for manufacturing products with IML.",
+			"target_es": "Especialización en tecnología de fabricación de productos con IML.",
+			"target_fr": "Spécialisation dans la technologie de fabrication de produits à l'aide de l'IML."
+		},
+		{
+			"source": "Maior reforço de sempre no fator humano (em todas as áreas).",
+			"target_en": "Biggest reinforcement ever in the human factor (in all areas).",
+			"target_es": "El mayor refuerzo jamás visto del factor humano (en todos los ámbitos).",
+			"target_fr": "Le plus grand renforcement jamais réalisé du facteur humain (dans tous les domaines)."
+		},
+		{
+			"source": "Inicio da construção de um pavilhão com 10000m2.",
+			"target_en": "Start of construction of a 10000m2 pavilion.",
+			"target_es": "Inicio de la construcción de un pabellón de 10000m2.",
+			"target_fr": "Début de la construction d'un pavillon de 10000m2."
+		},
+		{
+			"source": "Troca de 80% de toda a frota de combustível para 100% elétrico.",
+			"target_en": "Switching 80% of the entire fleet from fuel to 100% electric.",
+			"target_es": "Pasar el 80% de toda la flota a ser 100% eléctrica.",
+			"target_fr": "Passage de 80 % de l'ensemble de la flotte à un système 100 % électrique."
+		},
+		{
+			"source": "Reforço na liderança de catering a nível europeu.",
+			"target_en": "Reinforced leadership in catering at European level.",
+			"target_es": "Refuerzo del liderazgo en restauración a escala europea.",
+			"target_fr": "Renforcement du leadership en matière de restauration au niveau européen."
+		},
+		{
+			"source": "Inauguração da linha de pintura (Catering)",
+			"target_en": "Inauguration of the painting line (Catering)",
+			"target_es": "Inauguración de la línea de pintura (Catering)",
+			"target_fr": "Inauguration de la ligne de peinture (Restauration)"
+		},
+		{
+			"source": "Reforço tecnológico, visão artificial.",
+			"target_en": "Technological reinforcement, artificial vision.",
+			"target_es": "Refuerzo tecnológico, visión artificial.",
+			"target_fr": "Renforcement technologique, vision artificielle."
+		},
+		{
 			"source": "Férias de Natal 2023",
 			"target_en": "Christmas Holidays 2023",
 			"target_es": "Vacaciones de Navidad 2023",
