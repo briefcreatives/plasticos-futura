@@ -295,6 +295,12 @@ var linguJSON = {
 			"target_fr": "Nous sommes à votre disposition pour produire le moule final et répondre à vos besoins avec la plus haute qualité."
 		},
 		{
+			"source": "Catering / Take Away",
+			"target_en": "Catering / Take Away",
+			"target_es": "Catering / Take Away",
+			"target_fr": "Restauration"
+		},
+		{
 			"source": "Doçaria/Snacks",
 			"target_en": "Sweets/Snacks",
 			"target_es": "Dulces/Snacks",
