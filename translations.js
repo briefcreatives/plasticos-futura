@@ -175,10 +175,10 @@ var linguJSON = {
   			"target_fr": "Notre équipe est composée de plus de 60 collaborateurs."
 		},
 		{
-  			"source": "Vendas 2022",
-  			"target_en": "Sales 2022",
-  			"target_es": "Ventas 2022",
-  			"target_fr": "Ventes 2022"
+  			"source": "Vendas 2023",
+  			"target_en": "Sales 2023",
+  			"target_es": "Ventas 2023",
+  			"target_fr": "Ventes 2023"
 		},
 		{
   			"source": "Ao respeitarmos o princípio de um crescimento sustentável atingimos 7,5 milhões em vendas no ano de 2022.",
@@ -214,7 +214,7 @@ var linguJSON = {
   			"source": "Contamos com mais de 4 décadas de atividade e orgulhamo-nos do nosso crescimento sustentado, assente em inovação tecnológica e métodos diferenciadores, o que nos permite a atual posição de destaque na indústria, e reconhecimento como PME líder.",
   			"target_en": "We have more than 4 decades of activity and we are proud of our sustained growth, based on technological innovation and differentiating methods, which allows us the current prominent position in the industry, and recognition as a leading SME.",
   			"target_es": "Llevamos más de 4 décadas en el sector y estamos orgullosos de nuestro crecimiento sostenido, basado en la innovación tecnológica y métodos diferenciadores, que nos permite la destacada posición actual en el sector, y el reconocimiento como PYME líder.",
-  			"target_fr": "Nous sommes en activité depuis plus de quarante ans et nous sommes fiers de notre croissance soutenue, fondée sur l'innovation technologique et des méthodes différenciées, qui nous permet d'occuper une position de premier plan dans l'industrie et d'être reconnus comme une PME de premier plan."
+  			"target_fr": "Nous sommes en activité depuis plus de quarante ans et nous sommes fiers de notre croissance soutenue, fondée sur l'innovation technologique et des méthodes différenciées, qui nous permet d'occuper une position de leader dans l'industrie et d'être reconnus comme une PME de leader."
 		},
 		{
   			"source": "Somos o seu melhor parceiro no desenvolvimento e produção de soluções em plástico.",
@@ -247,6 +247,12 @@ var linguJSON = {
 			"target_fr": "Nous analysons vos besoins et vos idées, ainsi que la viabilité économique et la production industrielle."
 		},
 		{
+			"source": "Desenvolvimento",
+			"target_en": "Development",
+			"target_es": "Desarrollo",
+			"target_fr": "Développement"
+		},
+		{
 			"source": "Desenvolvemos e concebemos o produto em 2D/3D.",
 			"target_en": "We develop and design the product in 2D/3D.",
 			"target_es": "Desarrollamos y diseñamos el producto en 2D/3D.",
@@ -262,7 +268,7 @@ var linguJSON = {
 			"source": "Criamos protótipos, ferramentas e qualquer tipo de maquinaria que seja necessária para garantir que somos a melhor solução para o seu projeto.",
 			"target_en": "We create prototypes, tools and any type of machinery that is needed to ensure that we are the best solution for your project.",
 			"target_es": "Creamos prototipos, herramientas y cualquier tipo de maquinaria que sea necesaria para garantizar que somos la mejor solución para su proyecto.",
-			"target_fr": "Nous créons des prototypes, des outils et tout type de machines nécessaires pour garantir que nous sommes la meilleure solution pour votre projet."
+			"target_fr": "Nous créons des prototypes, des outils et tout type de machines afin de vous garantir la meilleure solution à votre projet."
 		},
 		{
 			"source": "PRÉ-PRODUÇÃO",
@@ -316,7 +322,7 @@ var linguJSON = {
 			"source": "Suplementos Alimentares",
 			"target_en": "Food Supplements",
 			"target_es": "Suplementos alimenticios",
-			"target_fr": "Suppléments alimentaires"
+			"target_fr": "Compléments alimentaires"
 		},
 		{
 			"source": "Farmacêutica",
