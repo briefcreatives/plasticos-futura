@@ -253,6 +253,12 @@ var linguJSON = {
 			"target_fr": "Développement"
 		},
 		{
+			"source": "DESENVOLVIMENTO",
+			"target_en": "DEVELOPMENT",
+			"target_es": "DESARROLLO",
+			"target_fr": "DÉVELOPPEMENT"
+		},
+		{
 			"source": "Desenvolvemos e concebemos o produto em 2D/3D.",
 			"target_en": "We develop and design the product in 2D/3D.",
 			"target_es": "Desarrollamos y diseñamos el producto en 2D/3D.",
