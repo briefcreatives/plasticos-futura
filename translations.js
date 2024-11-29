@@ -986,6 +986,18 @@ var linguJSON = {
 	    "img_target_en": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac6f2c3e6535104fa09d_Mobile_EN.png",
             "img_target_es": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac7284fa703160203faf_Mobile_ES.png",
             "img_target_fr": "https://uploads-ssl.webflow.com/649d639c6c76fa917a1a7c33/64d0ac75bb241a103f7b8fca_Mobile_FR.png"
-        }
+        },
+				{
+					"img_source": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/6749b6268673b1c0ce2f46bb_horizontal_pt.png",
+		"img_target_en": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892d6fc7d46b03d088a8c_horizontal_eng.png",
+					"img_target_es": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892d6fc7d46b03d088a8c_horizontal_eng.png",
+					"img_target_fr": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892d6fc7d46b03d088a8c_horizontal_eng.png"
+			},
+			{
+				"img_source": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/6749b63db5224f5f24ede210_vertical_pt.png",
+	"img_target_en": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892eb24708fd41ad95732_vertical_eng.png",
+				"img_target_es": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892eb24708fd41ad95732_vertical_eng.png",
+				"img_target_fr": "https://cdn.prod.website-files.com/649a9ab068278b47d14aeee8/674892eb24708fd41ad95732_vertical_eng.png"
+		}
     ],
 };
